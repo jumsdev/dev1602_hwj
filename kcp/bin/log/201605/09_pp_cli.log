@@ -1,0 +1,45 @@
+0509-052734.783 - 12831 - SR4KJ595Q45ckPid - MSG : TX_START - site_cd=[SR4KJ]+tx_cd=[00100000]+ordr_idxx=[TEST201605091462739161190]+log_level=[3]+opt=[0]
+0509-052734.840 - 12831 - SR4KJ595Q45ckPid - MSG : PG_SERVER_CONN__SUCC
+0509-052734.857 - 12831 - SR4KJ595Q45ckPid - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0509-052735.275 - 12831 - SR4KJ595Q45ckPid - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0509-052735.275 - 12831 - SR4KJ595Q45ckPid - MSG : TX_ENDED - res=[res_cd=CC67res_msg=사업자번호 오류(인증)res_en_msg=Business number does not match with the database.trace_no=SR4KJ595Q45ckPidpay_method=PACAorder_no=TEST201605091462739161190trade_seq=20160509011610card_cd=CCKMcard_name=KB국민카드]
+0509-053236.893 - 20211 - SR4KJ595Ve5ckPid - MSG : TX_START - site_cd=[SR4KJ]+tx_cd=[00100000]+ordr_idxx=[TEST201605091462739497015]+log_level=[3]+opt=[0]
+0509-053236.901 - 20211 - SR4KJ595Ve5ckPid - MSG : PG_SERVER_CONN__SUCC
+0509-053236.917 - 20211 - SR4KJ595Ve5ckPid - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0509-053237.283 - 20211 - SR4KJ595Ve5ckPid - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0509-053237.283 - 20211 - SR4KJ595Ve5ckPid - MSG : TX_ENDED - res=[res_cd=CC67res_msg=사업자번호 오류(인증)res_en_msg=Business number does not match with the database.trace_no=SR4KJ595Ve5ckPidpay_method=PACAorder_no=TEST201605091462739497015trade_seq=20160509011948card_cd=CCKMcard_name=KB국민카드]
+0509-053738.477 - 25793 - SR4KJ595ae5ckPid - MSG : TX_START - site_cd=[SR4KJ]+tx_cd=[00100000]+ordr_idxx=[TEST201605091462739791061]+log_level=[3]+opt=[0]
+0509-053738.484 - 25793 - SR4KJ595ae5ckPid - MSG : PG_SERVER_CONN__SUCC
+0509-053738.501 - 25793 - SR4KJ595ae5ckPid - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0509-053738.824 - 25793 - SR4KJ595ae5ckPid - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0509-053738.824 - 25793 - SR4KJ595ae5ckPid - MSG : TX_ENDED - res=[res_cd=CC67res_msg=사업자번호 오류(인증)res_en_msg=Business number does not match with the database.trace_no=SR4KJ595ae5ckPidpay_method=PACAorder_no=TEST201605091462739791061trade_seq=20160509012148card_cd=CCKMcard_name=KB국민카드]
+0509-053745.487 - 25839 - SR4KJ595ae5ckPid - MSG : TX_START - site_cd=[SR4KJ]+tx_cd=[00100000]+ordr_idxx=[TEST201605091462739791061]+log_level=[3]+opt=[0]
+0509-053745.491 - 25839 - SR4KJ595ae5ckPid - MSG : PG_SERVER_CONN__SUCC
+0509-053745.509 - 25839 - SR4KJ595ae5ckPid - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0509-053745.837 - 25839 - SR4KJ595ae5ckPid - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0509-053745.838 - 25839 - SR4KJ595ae5ckPid - MSG : TX_ENDED - res=[res_cd=CC67res_msg=사업자번호 오류(인증)res_en_msg=Business number does not match with the database.trace_no=SR4KJ595ae5ckPidpay_method=PACAorder_no=TEST201605091462739791061trade_seq=20160509012153card_cd=CCKMcard_name=KB국민카드]
+0509-062333.563 - 15309 - T0000596Mh5ckPid - MSG : TX_START - site_cd=[T0000]+tx_cd=[00100000]+ordr_idxx=[TEST201605091462742558126]+log_level=[3]+opt=[0]
+0509-062333.590 - 15309 - T0000596Mh5ckPid - MSG : PG_SERVER_CONN__SUCC
+0509-062333.609 - 15309 - T0000596Mh5ckPid - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0509-062333.892 - 15309 - T0000596Mh5ckPid - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0509-062333.892 - 15309 - T0000596Mh5ckPid - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=T0000596Mh5ckPidpay_method=PACAorder_no=TEST201605091462742558126card_cd=CCKMcard_name=KB국민카드acqu_cd=CCKMacqu_name=KB국민카드card_no=5409260000001035mcht_taxno=1138521083mall_taxno=1138521083ca_order_id=TEST201605091462742558126tno=16380900019786amount=1004card_mny=1004coupon_mny=0escw_yn=Nvan_cd=VNKCapp_time=20160509062333van_apptime=20160509062333app_no=12749056bizx_numb=00013219101quota=00noinf=Npg_txid=0509062333MP01AAE4TC620000000010040012749056res_tax_flag=TG03res_tax_mny=912res_free_mny=0res_vat_mny=92partcanc_yn=Ycard_bin_type_01=0card_bin_type_02=0isp_partner_cd=050204040090631join_cd=0000]
+0509-063719.803 -   746 - T0000596a45ckPid - MSG : TX_START - site_cd=[T0000]+tx_cd=[00100000]+ordr_idxx=[TEST201605091462743360582]+log_level=[3]+opt=[0]
+0509-063719.810 -   746 - T0000596a45ckPid - MSG : PG_SERVER_CONN__SUCC
+0509-063719.825 -   746 - T0000596a45ckPid - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0509-063720.055 -   746 - T0000596a45ckPid - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0509-063720.055 -   746 - T0000596a45ckPid - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=T0000596a45ckPidpay_method=PACAorder_no=TEST201605091462743360582card_cd=CCKMcard_name=KB국민카드acqu_cd=CCKMacqu_name=KB국민카드card_no=5409260000001035mcht_taxno=1138521083mall_taxno=1138521083ca_order_id=TEST201605091462743360582tno=16380900019795amount=1004card_mny=1004coupon_mny=0escw_yn=Nvan_cd=VNKCapp_time=20160509063719van_apptime=20160509063719app_no=09060179bizx_numb=00013219101quota=00noinf=Npg_txid=0509063719MP01ABE5B1OQ0000000010040009060179res_tax_flag=TG03res_tax_mny=912res_free_mny=0res_vat_mny=92partcanc_yn=Ycard_bin_type_01=0card_bin_type_02=0isp_partner_cd=050204040090631join_cd=0000]
+0509-064019.893 -  5650 - T0000596eJ5ckPid - MSG : TX_START - site_cd=[T0000]+tx_cd=[00100000]+ordr_idxx=[TEST201605091462743565163]+log_level=[3]+opt=[0]
+0509-064019.903 -  5650 - T0000596eJ5ckPid - MSG : PG_SERVER_CONN__SUCC
+0509-064019.921 -  5650 - T0000596eJ5ckPid - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0509-064020.477 -  5650 - T0000596eJ5ckPid - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0509-064020.477 -  5650 - T0000596eJ5ckPid - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=T0000596eJ5ckPidpay_method=PACAorder_no=TEST201605091462743565163card_cd=CCKMcard_name=KB국민카드acqu_cd=CCKMacqu_name=KB국민카드card_no=5409260000001035mcht_taxno=1138521083mall_taxno=1138521083ca_order_id=TEST201605091462743565163tno=16380900019801amount=1004card_mny=1004coupon_mny=0escw_yn=Nvan_cd=VNKCapp_time=20160509064020van_apptime=20160509064020app_no=34394471bizx_numb=00013219101quota=00noinf=Npg_txid=0509064020MP01ACE5EWX50000000010040034394471res_tax_flag=TG03res_tax_mny=912res_free_mny=0res_vat_mny=92partcanc_yn=Ycard_bin_type_01=0card_bin_type_02=0join_cd=0000]
+0509-064444.897 -  7847 - T0000596hp5ckPid - MSG : TX_START - site_cd=[T0000]+tx_cd=[00100000]+ordr_idxx=[TEST201605091462743829304]+log_level=[3]+opt=[0]
+0509-064444.902 -  7847 - T0000596hp5ckPid - MSG : PG_SERVER_CONN__SUCC
+0509-064444.921 -  7847 - T0000596hp5ckPid - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0509-064445.169 -  7847 - T0000596hp5ckPid - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0509-064445.169 -  7847 - T0000596hp5ckPid - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=T0000596hp5ckPidpay_method=PACAorder_no=TEST201605091462743829304card_cd=CCKMcard_name=KB국민카드acqu_cd=CCKMacqu_name=KB국민카드card_no=5409260000001035mcht_taxno=1138521083mall_taxno=1138521083ca_order_id=TEST201605091462743829304tno=16380900019810amount=1004card_mny=1004coupon_mny=0escw_yn=Nvan_cd=VNKCapp_time=20160509064445van_apptime=20160509064445app_no=39776790bizx_numb=00013219101quota=00noinf=Npg_txid=0509064445MP01ADE5KL4M0000000010040039776790res_tax_flag=TG03res_tax_mny=912res_free_mny=0res_vat_mny=92partcanc_yn=Ycard_bin_type_01=0card_bin_type_02=0isp_partner_cd=050204040090631join_cd=0000]
+0509-064640.252 - 12078 - SR4KJ596jg5ckPid - MSG : TX_START - site_cd=[SR4KJ]+tx_cd=[00100000]+ordr_idxx=[TEST201605091462743937121]+log_level=[3]+opt=[0]
+0509-064640.268 - 12078 - SR4KJ596jg5ckPid - MSG : PG_SERVER_CONN__SUCC
+0509-064640.285 - 12078 - SR4KJ596jg5ckPid - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0509-064640.678 - 12078 - SR4KJ596jg5ckPid - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0509-064640.678 - 12078 - SR4KJ596jg5ckPid - MSG : TX_ENDED - res=[res_cd=CC67res_msg=사업자번호 오류(인증)res_en_msg=Business number does not match with the database.trace_no=SR4KJ596jg5ckPidpay_method=PACAorder_no=TEST201605091462743937121trade_seq=20160509016597card_cd=CCKMcard_name=KB국민카드]
